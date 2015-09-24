@@ -88,11 +88,6 @@
     <ClInclude Include="flv_demuxer.h" />
     <ClInclude Include="logic_error.h" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\bento4\bento4.vcxproj">
-      <Project>{e501e13a-bfb6-4194-b6f0-50b8ed15be71}</Project>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

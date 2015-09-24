@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bento4", "bento4\bento4.vcxproj", "{E501E13A-BFB6-4194-B6F0-50B8ED15BE71}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "demuxer", "demuxer\demuxer.vcxproj", "{8C134072-4380-4153-9DAA-FF876DDFCEC5}"
 EndProject
 Global
@@ -11,10 +9,6 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E501E13A-BFB6-4194-B6F0-50B8ED15BE71}.Debug|Win32.ActiveCfg = Debug|Win32
-		{E501E13A-BFB6-4194-B6F0-50B8ED15BE71}.Debug|Win32.Build.0 = Debug|Win32
-		{E501E13A-BFB6-4194-B6F0-50B8ED15BE71}.Release|Win32.ActiveCfg = Release|Win32
-		{E501E13A-BFB6-4194-B6F0-50B8ED15BE71}.Release|Win32.Build.0 = Release|Win32
 		{8C134072-4380-4153-9DAA-FF876DDFCEC5}.Debug|Win32.ActiveCfg = Debug|Win32
 		{8C134072-4380-4153-9DAA-FF876DDFCEC5}.Debug|Win32.Build.0 = Debug|Win32
 		{8C134072-4380-4153-9DAA-FF876DDFCEC5}.Release|Win32.ActiveCfg = Release|Win32
